@@ -1,7 +1,7 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:flutter/material.dart';
-import 'package:gemeni/bot_screen.dart';
-import 'package:gemeni/suggestion_box.dart';
+import 'package:gemeni/screens/bot_screen.dart';
+import 'package:gemeni/widgets/suggestion_box.dart';
 
 class HomeScreen extends StatefulWidget {
   static const String routeName = 'home';

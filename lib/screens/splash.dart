@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:gemeni/helpers/enums.dart';
 import 'package:gemeni/helpers/shared.dart';
-import 'package:gemeni/login.dart';
+import 'package:gemeni/screens/login.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});

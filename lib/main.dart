@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:gemeni/home_screen.dart';
-import 'package:gemeni/login.dart';
+import 'package:gemeni/screens/home_screen.dart';
+import 'package:gemeni/screens/login.dart';
 import 'package:gemeni/screens/splash.dart';
 
 void main() {
